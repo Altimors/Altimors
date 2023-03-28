@@ -17,6 +17,9 @@ I did some project for my cursus too :
   - [https://youtu.be/UnVUCweGH2Q](https://youtu.be/UnVUCweGH2Q) (demo video) 
   - [https://github.com/TheBoje/IFT-3100](https://github.com/TheBoje/IFT-3100) (the repo)
 - A Instagram-like website [http://ugram-front.s3-website.ca-central-1.amazonaws.com](http://ugram-front.s3-website.ca-central-1.amazonaws.com) (the repo is private) 
+- A bibliography on procedural generation that lead to a one month project in the 2nd year of study : 
+  - [https://github.com/TheBoje/ProceduralGen](https://github.com/TheBoje/ProceduralGen) (the repo)
+  - [The bibliohraphy](https://docs.google.com/document/d/1fG0lSWKF_zscjAJkibbIZ-Cgd8h_D87heLsh84emyHk/edit)
 
 I like doing music and sound design too !
 
